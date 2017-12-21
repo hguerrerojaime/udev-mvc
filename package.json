@@ -1,0 +1,15 @@
+{
+  "name": "udev-mvc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "udev-mvc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Humberto Guerrero <hguerrerojaime@gmail.com> (https://github.com/hguerrerojaime)",
+  "license": "ISC",
+  "dependencies": {
+    "jclass": "^1.2.1",
+    "node-di": "0.0.3"
+  }
+}
